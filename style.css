@@ -1,0 +1,106 @@
+html {
+    scroll-behavior: smooth;
+    
+  }
+body{
+	font-family: 'Abel', sans-serif;
+    
+}
+
+section#title{
+background-color:  #6a60de ;
+    padding-bottom: 4rem;
+
+}
+.title-container{
+
+    padding-bottom: 2%;
+}
+#navbar-new{
+    background-color: #6a60de;
+}
+.logo-title{
+    
+    font-family: Ubuntu;
+    font-size: 1.5rem;
+}
+
+.sub-section{
+    padding-top: 3.5rem;
+}
+h1{
+    font-family: 'Abel', sans-serif;
+    
+
+    font-weight: 700;
+    color:#fff;
+    font-size: 3.5rem;
+    padding-bottom: 3rem;
+    line-height: 1.5;
+}
+
+h2{
+    font-family: 'Abel', sans-serif;
+    font-weight: 700; 
+    font-size: 3rem;
+    padding-bottom: 1rem;
+    line-height: 1.5;
+}
+
+h3{
+    font-weight: 700;
+    font-size: 2rem;
+}
+h5{
+	font-family: Ubuntu;
+	font-size: 1.5rem;
+}
+
+font-size: 1.5rem;
+    margin: 0 14px 0 0;
+}
+
+li.nav-item{
+
+    font-size: 1.2rem;
+    padding: 0 8px;
+}
+
+.title-image{
+
+    width:100%;
+   
+    z-index: 0;
+    position: relative;
+}
+#footer{
+	background-color: #000000;
+    padding:1% 2%;
+    text-align: center;
+}
+.social-icon{
+	color: white;
+    margin: 20px 10px;
+    cursor: pointer;
+}
+#users h2{
+	font-family: 'Abel', sans-serif;
+    
+    font-weight: 700;
+    line-height: 1.5;
+    font-size: 2.5rem;
+}
+
+.user-image{
+    border-radius: 100%;
+    width:10%;
+    margin:20px;
+}
+#users{
+    background-color:  #817ddf   ;
+    text-align: center;
+    color:#000;
+}
+.carousel-item{
+    padding: 7% 15%;
+}

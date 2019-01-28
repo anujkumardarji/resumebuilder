@@ -1,0 +1,30 @@
+  .caa{
+
+  	margin-top: 100px;
+  	font-family: 'Alegreya Sans SC', sans-serif;
+  }
+
+  .personal-info{
+
+  	margin-top: 20px;
+  }
+
+ .second-row{
+ 	margin-top: 00px;
+ }
+ 
+ 
+ #footer {
+    background-color: #000000;
+  font-family: 'Abel', sans-serif;
+
+    padding: 0.5% 2%;
+    text-align: center;
+}
+.social-icon{
+    color: white;
+    margin: 20px 10px;
+    cursor: pointer;
+}
+ 
+ 

@@ -1,0 +1,25 @@
+Web technology
+
+Project: Resume Builder
+by Anujkumar Darji and kapil bavisiya
+
+home page name --------->>   newhome.html
+
+inner pages:- 
+
+// folders contains html,css and image files
+ 
+
+	page                       folder name 
+ 
+  Layout page                      Layout
+  Personal Info Page               personalinfo
+  Educational Info Page            educationalinfo
+  skill indfo page                 skill info
+  Experience info page             experience info
+  Download Page                    Download
+  Sign In page                     signin
+  Sign Up page                     signup
+  Download page                    Download
+
+
